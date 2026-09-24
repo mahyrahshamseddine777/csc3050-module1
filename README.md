@@ -4,3 +4,4 @@ Derrich Tawiah
 Mahyrah Shamseddine
 
 This repo is for Module 1
+Plans
